@@ -47,7 +47,7 @@ public class ExampleInstrumentedTest {
     }
 
     @Test
-    public void multTest() {
+    public void multiTest() {
         onView(withId(R.id.first_number)).perform(typeText("2"));
         onView(withId(R.id.second_number)).perform(typeText("3"));
         onView(withId(R.id.multiply)).perform(click());
