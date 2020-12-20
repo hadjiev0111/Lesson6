@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson 6</string>
+    <string name="addition">Addition +</string>
+    <string name="division">Division /</string>
+    <string name="multiply_x">Multiply X</string>
+    <string name="subtraction">Subtraction -</string>
+    <string name="_2nd_number">2nd number</string>
+    <string name="_1st_number">1st number</string>
+    <string name="result">Result</string>
+</resources>
